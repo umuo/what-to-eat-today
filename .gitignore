@@ -1,0 +1,11 @@
+node_modules/
+dist/
+server/data/*.db*
+.DS_Store
+raw_assets/
+.vercel
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
